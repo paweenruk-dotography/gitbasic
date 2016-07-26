@@ -14,6 +14,10 @@ Hello, this is nat again.
 Foo bar
 
 Test Text
+<<<<<<< HEAD
 
 
 Hi !!!
+=======
+Hello this is Tua
+>>>>>>> master
