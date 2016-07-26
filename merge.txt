@@ -4,4 +4,8 @@ test test
 new file.
 change file.
 
+<<<<<<< HEAD
 Test Text
+=======
+Hello All This is nat
+>>>>>>> master
