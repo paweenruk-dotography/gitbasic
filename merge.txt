@@ -37,7 +37,13 @@ ccc
 
 
 Test Text
+<<<<<<< HEAD
+
+
+Hi !!!
+=======
 Hello this is Tua
+>>>>>>> master
 
 lasdklsadlksajdlksadjsadklasdlkas
 asd
