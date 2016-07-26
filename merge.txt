@@ -20,6 +20,8 @@ asd
 asdlasndlksajd;asjd'laskd;lkasd
 asd
 asd
+hello armae ^^
+hello armae ^^
 as
 dasdasdasdasdasdasddddddddddddddasasdasd
 ds;fsd;fksd;kfsDIASDJASDJLKASJDA;SKD;ASKD
@@ -36,7 +38,13 @@ ccc
 
 
 Test Text
+<<<<<<< HEAD
+
+
+Hi !!!
+=======
 Hello this is Tua
+>>>>>>> master
 
 lasdklsadlksajdlksadjsadklasdlkas
 asd
