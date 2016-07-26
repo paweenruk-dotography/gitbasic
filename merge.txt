@@ -4,6 +4,7 @@ test test
 new file.
 change file.
 
+arm
 Hello All This is nat
 
 panarin a;sldka;lsdkaskdsa'kda'sd
@@ -17,3 +18,13 @@ asd
 asd
 as
 dasdasdasdasdasdasddddddddddddddasasdasd
+ds;fsd;fksd;kfsDIASDJASDJLKASJDA;SKD;ASKD
+arm22222
+
+Hello, this is nat again.
+
+
+Foo bar
+
+Test Text
+Hello this is Tua
